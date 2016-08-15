@@ -1,0 +1,6 @@
+c:\users\luke\documents\visual studio 2015\Projects\Assignment2P1\Assignment2P1\bin\Debug\Assignment2P1.exe.config
+c:\users\luke\documents\visual studio 2015\Projects\Assignment2P1\Assignment2P1\obj\Debug\Assignment2P1.csprojResolveAssemblyReference.cache
+c:\users\luke\documents\visual studio 2015\Projects\Assignment2P1\Assignment2P1\bin\Debug\Assignment2P1.exe
+c:\users\luke\documents\visual studio 2015\Projects\Assignment2P1\Assignment2P1\bin\Debug\Assignment2P1.pdb
+c:\users\luke\documents\visual studio 2015\Projects\Assignment2P1\Assignment2P1\obj\Debug\Assignment2P1.exe
+c:\users\luke\documents\visual studio 2015\Projects\Assignment2P1\Assignment2P1\obj\Debug\Assignment2P1.pdb
